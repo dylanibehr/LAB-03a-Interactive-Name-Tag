@@ -1,0 +1,49 @@
+.box {
+
+    margin-top: 50px;
+    background-color: red;
+    height: 250px;
+    width: 400px;
+    border-radius: 20px;
+    
+}
+
+.hello {
+
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    padding-top: 10px;
+    
+}
+
+.mynameis {
+
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    margin-top: -20px;
+}
+
+.name-display {
+
+    text-align: center;
+    color: black;
+    background-color: white;
+    height: 70px;
+    padding-top: 20px;
+    font-size: 40px;
+    margin-top: -15px;
+}
+
+#color-of-nametag {
+
+    text-align: center;
+    font-size: large;
+    width: 400px;
+}
+
+#buttons {
+width: 400px;
+background-color: aqua;
+}
